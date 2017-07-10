@@ -1,0 +1,32 @@
+.page-header {
+   margin-top: 0 !important;
+}
+.panel-body {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.featuredImg {
+    margin-bottom: 15px !important;
+}
+
+body {
+    margin-bottom: 95px !important;
+}
+
+
+
+.jumbotron {
+    margin-top: 15px;
+}
+
+.products-panel {
+    margin:10px;
+}
+
+.products-img {
+    margin:10px;
+    height: 200px !important;
+    width: auto !important;
+}
+
